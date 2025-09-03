@@ -16,7 +16,7 @@
 
 ## 🌐 Socials:
 <p align="left">
-  <a href="www.linkedin.com/in/ataullah-sediqi-34792235b" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
+  <a href="ataullah-sediqi-34792235b" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="40" width="40" /></a>
   <a href="ataullahsediqi288@gmail.com"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="email" height="40" width="40" /></a>
 </p>
 
