@@ -1,7 +1,6 @@
 ## Hi there 👋
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AtaullahSediqi/AtaullahSediqi/main/welcome-banner.gif" alt="Welcome Banner" width="800" />
-</p>
+<h1 align="center">I'm Ataullah Sediqi</h1>
+<h3 align="center">A passionate Software Engineer & Full-Stack Developer</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
