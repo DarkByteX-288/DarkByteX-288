@@ -72,10 +72,11 @@
 
 ## 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=DarkByteX-288&theme=radical)
+![Ataullah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DarkByteX-288&show_icons=true&theme=radical&hide=issues)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkByteX-288&layout=compact&theme=radical)
+![Metrics](https://metrics.lecoq.io/DarkByteX-288?template=classic&base.indepth=true&base.hireable=true&config.timezone=Asia%2FKabul)
+
 
 ---
 
