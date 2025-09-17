@@ -81,9 +81,6 @@
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkByteX-288&layout=compact&theme=radical)
 
-<!-- GitHub Metrics (Advanced) -->
-![Metrics](https://metrics.lecoq.io/DarkByteX-288?template=classic&base.indepth=true&base.hireable=true&config.timezone=Asia%2FKabul)
-
 ---
 
 ## 🏆 Achievements:
