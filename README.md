@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Ataullah Sediqi</h1>
 <h3 align="center">A passionate Software Engineer & Full-Stack Developer</h3>
 
-🔭 I’m currently working on **Full-Stack Web Development Projects**<br>- 🌱 I’m learning **MERN Stack, Data Science & AI**<br>- 👯 I’m looking to collaborate on **Open Source Projects**<br>- 💬 Ask me about **Python, React, DSA, Node.js**<br>- 📫 Reach me at **your-email@example.com**<br>- ⚡ Fun fact: *I enjoy building scalable, modern, and user-friendly applications.*<br>
+🔭 I’m currently working on **Full-Stack Web Development Projects**<br>- 🌱 I’m learning **MERN Stack, Data Science & AI**<br>- 👯 I’m looking to collaborate on **Open Source Projects**<br>- 💬 Ask me about **Python, React, DSA, Node.js**<br>- 📫 Reach me at **ataullahsediqi288@gmail.com**<br>- ⚡ Fun fact: *I enjoy building scalable, modern, and user-friendly applications.*<br>
 
 
 ## 🌐 Socials:
